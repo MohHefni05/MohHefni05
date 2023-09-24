@@ -1,6 +1,6 @@
 - 👋 Hi, You can call me Hefni
 - 👀 I’m interested in web development
-- 📫 How to reach me mohhefni2105@gmail.com
+- 📫 You can reach me via mohhefni2105@gmail.com
 
 <!---
 MohHefni05/MohHefni05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
